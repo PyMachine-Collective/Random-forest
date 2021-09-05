@@ -1,5 +1,5 @@
 # Random-forest
-Random forest is the advanced version of decision tree. It combines/ensembles numbers of decision trees for prediction, instead of just one. 
+Random forest is the advanced version of decision tree. It combines/ensembles numbers of decision trees for prediction, instead of just one. [learn more about desicion tree](https://medium.com/bite-sized-machine-learning/decision-tree-classifier-explained-9543dd952746)
 
 # How does random forest work ?
 
