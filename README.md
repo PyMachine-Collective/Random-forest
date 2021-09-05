@@ -20,6 +20,7 @@ Step 3: each tree predicts the records/candidates in the test set, independently
 Step 4: select the majority vote from these 1000 tree on each record/candidate in the test set as the final decision
 
 # How to do it in python
+first you have to install sklearn using pip or pip3
     from sklearn.datasets import make_moons
     from sklearn.metrics import accuracy_score
     from sklearn.model_selection import train_test_split
