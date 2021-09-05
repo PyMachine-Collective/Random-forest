@@ -21,6 +21,7 @@ Step 4: select the majority vote from these 1000 tree on each record/candidate i
 
 # How to do it in python
 first you have to install sklearn using pip or pip3
+
     from sklearn.datasets import make_moons
     from sklearn.metrics import accuracy_score
     from sklearn.model_selection import train_test_split
